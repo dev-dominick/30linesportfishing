@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 const About = (props) => {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>About</div>
+      <div>Contact</div>
     </main>
   );
 };
